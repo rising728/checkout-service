@@ -1,0 +1,12 @@
+{
+    "name": "vincent/checkout-service",
+    "require": {
+        "laravel/framework": "^8.83.5"
+    },
+    "authors": [
+        {
+            "name": "Vincent",
+            "email": "vincethedev@gmail.com"
+        }
+    ]
+}
